@@ -1,2 +1,2 @@
-# Shell
+# Synergy
 My first repository
